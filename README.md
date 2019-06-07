@@ -4,9 +4,13 @@ Face recognition system
 
 installations required 
 #install python
+
 #install numpy:-
+
 pip install numpy
+
 #install opencv:-
+
 pip install opencv-python
 
 
